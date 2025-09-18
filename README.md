@@ -35,7 +35,7 @@
   
 ### **GitHub Streak**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muthuka" alt="GitHub Streak" width="600">
+<img src="https://streak-stats.demolab.com?user=muthuka" alt="GitHub Streak" width="600">
 
 ### **GitHub Trophies**
 
