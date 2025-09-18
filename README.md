@@ -37,10 +37,6 @@
 
 <img src="https://streak-stats.demolab.com?user=muthuka" alt="GitHub Streak" width="600">
 
-### **GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=muthuka&no-frame=true&column=7" alt="GitHub Trophies" width="800">
-
 ### **Contribution Graph**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muthuka&theme=github-light&hide_border=true" alt="Contribution Graph" width="800">
