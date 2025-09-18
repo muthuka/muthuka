@@ -32,10 +32,6 @@
 ## GitHub Stats
 
 <div align="center">
-  
-### **GitHub Streak**
-
-<img src="https://streak-stats.demolab.com?user=muthuka" alt="GitHub Streak" width="600">
 
 ### **Contribution Graph**
 
